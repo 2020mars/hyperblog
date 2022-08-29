@@ -1,6 +1,5 @@
-# hyperblog
-<<<<<<< HEAD
-Un blog git y git Hub
-=======
-Blog de git y github
->>>>>>> 919b2089796ff1e5363c69ab98eab28c6b98567d
+# hyperblog:tw-1f496:
+
+# Una prueba de git y git hub. Funcionalidades y otras cosas.
+
+### Dentro de todo bastante completo.
